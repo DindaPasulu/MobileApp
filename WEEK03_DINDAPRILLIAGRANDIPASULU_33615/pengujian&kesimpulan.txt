@@ -1,0 +1,4 @@
+Pengujian pada aplikasi
+1) Saat button tambah ditekan, akan menambahkan kata baru dengan urut berikutnya
+2) Saat suatu baris kata ditekan, akan muncul kata "pernah di klik".
+Saat baris kata yang sama ditekan kembali, muncul kata "pernah di klik" yang kedua.
